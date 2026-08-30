@@ -5,7 +5,7 @@ Data Engineer at [Fello](https://www.fello.ai) building production data systems 
 #### What I'm working on
 
 - **Data Lake Architecture** — End-to-end pipeline processing 5K+ accounts with automated enrichment, Zillow integration, and RevOps exports
-- **[ShipScore](https://ship-score-kappa.vercel.app)** — Gamified GitHub commit tracker to measure shipping velocity across accounts
+- **[ShipScore](https://github.com/Adarsh-Badjate/ship-score)** — Gamified GitHub commit tracker to measure shipping velocity across accounts
 - **AI Agents** — Building enrichment engines and data quality automation using Claude, Supabase, and custom orchestration
 
 #### Tech I work with
