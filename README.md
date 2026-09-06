@@ -52,6 +52,6 @@ Dec 2023 – Jul 2024  Data Analyst Intern         Avegen Health
 
 <div align="center">
 
-[Portfolio](https://adarshbadjate.vercel.app) · [Book a call](https://cal.com/adarsh-badjate-gxajgo/30min?overlayCalendar=true) · [LinkedIn](https://linkedin.com/in/adarsh-badjate) · [badjate.aadarsh@gmail.com](mailto:badjate.aadarsh@gmail.com)
+[📄 View Full Profile (PDF)](./Adarsh_Badjate_Portfolio.pdf) · [Portfolio](https://adarshbadjate.vercel.app) · [Book a call](https://cal.com/adarsh-badjate-gxajgo/30min?overlayCalendar=true) · [LinkedIn](https://linkedin.com/in/adarsh-badjate) · [badjate.aadarsh@gmail.com](mailto:badjate.aadarsh@gmail.com)
 
 </div>
